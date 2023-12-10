@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>WebApp - Project</h2>
 </body>
 </html>
